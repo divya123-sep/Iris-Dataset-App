@@ -21,7 +21,8 @@ Welcome to the **Iris Dataset Explorer**! This Streamlit app allows you to explo
 - Seaborn
 - Matplotlib
 
-### Steps
+### Run the Streamlit app: streamlit run app.py
+
 
 1. Clone the repository:
    ```bash
