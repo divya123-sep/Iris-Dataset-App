@@ -23,6 +23,7 @@ Welcome to the **Iris Dataset Explorer**! This Streamlit app allows you to explo
 
 ### Run the Streamlit app: streamlit run app.py
 
+## Screenshot: ![image](https://github.com/user-attachments/assets/b336a2e7-edcb-4aae-bea4-11997827dae8)
 
 1. Clone the repository:
    ```bash
